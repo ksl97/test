@@ -6,5 +6,7 @@ Judul Sistem: [Nama Sistem Mereka] </p>
 Nama Anggota: [Mhs 1 & Mhs 2] </p>
 </p>
 Link Slide (Canva/Google Slides): [Link di sini] </p>
-Link Desain/Wireframe: [Link di sini] (Link Figma) </p>
+Link Desain/Wireframe: [Link di sini] (Link Figma*), Wireframe/Mockup sederhana (bisa dibuat di Canva atau bahkan coretan kertas yang difoto/di-scan)) </p>
 Dokumen Lengkap (UML & Analisis): [Link File PDF di folder GitHub] </p>
+</p>
+*) menggunakan Figma menjadi nilai plus tersendiri </p>
